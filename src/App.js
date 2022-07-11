@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>
-        <BiArchive />My Appointments</h1>
+        <BiArchive />My Appointments!</h1>
     </div>
   );
 }
