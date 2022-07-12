@@ -4,7 +4,7 @@ import Search from "./components/Search"
 function App() {
   return (
     <div>
-      <h1>
+      <h1 className="text-3xl font-bold underline">
         <BiArchive />My Appointments!</h1>
         <Search />
     </div>
